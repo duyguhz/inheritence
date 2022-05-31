@@ -1,0 +1,13 @@
+/Users/duyguhasanzade/Projects/task3/ClassInheritence2/bin/Debug/netcoreapp3.1/ClassInheritence2.deps.json
+/Users/duyguhasanzade/Projects/task3/ClassInheritence2/bin/Debug/netcoreapp3.1/ClassInheritence2.runtimeconfig.json
+/Users/duyguhasanzade/Projects/task3/ClassInheritence2/bin/Debug/netcoreapp3.1/ClassInheritence2.runtimeconfig.dev.json
+/Users/duyguhasanzade/Projects/task3/ClassInheritence2/bin/Debug/netcoreapp3.1/ClassInheritence2.dll
+/Users/duyguhasanzade/Projects/task3/ClassInheritence2/bin/Debug/netcoreapp3.1/ClassInheritence2.pdb
+/Users/duyguhasanzade/Projects/task3/ClassInheritence2/obj/Debug/netcoreapp3.1/ClassInheritence2.csproj.AssemblyReference.cache
+/Users/duyguhasanzade/Projects/task3/ClassInheritence2/obj/Debug/netcoreapp3.1/ClassInheritence2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/duyguhasanzade/Projects/task3/ClassInheritence2/obj/Debug/netcoreapp3.1/ClassInheritence2.AssemblyInfoInputs.cache
+/Users/duyguhasanzade/Projects/task3/ClassInheritence2/obj/Debug/netcoreapp3.1/ClassInheritence2.AssemblyInfo.cs
+/Users/duyguhasanzade/Projects/task3/ClassInheritence2/obj/Debug/netcoreapp3.1/ClassInheritence2.csproj.CoreCompileInputs.cache
+/Users/duyguhasanzade/Projects/task3/ClassInheritence2/obj/Debug/netcoreapp3.1/ClassInheritence2.dll
+/Users/duyguhasanzade/Projects/task3/ClassInheritence2/obj/Debug/netcoreapp3.1/ClassInheritence2.pdb
+/Users/duyguhasanzade/Projects/task3/ClassInheritence2/obj/Debug/netcoreapp3.1/ClassInheritence2.genruntimeconfig.cache

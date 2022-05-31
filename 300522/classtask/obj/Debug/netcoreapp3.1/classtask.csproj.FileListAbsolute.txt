@@ -1,0 +1,13 @@
+/Users/duyguhasanzade/Projects/300522/300522/classtask/bin/Debug/netcoreapp3.1/classtask.deps.json
+/Users/duyguhasanzade/Projects/300522/300522/classtask/bin/Debug/netcoreapp3.1/classtask.runtimeconfig.json
+/Users/duyguhasanzade/Projects/300522/300522/classtask/bin/Debug/netcoreapp3.1/classtask.runtimeconfig.dev.json
+/Users/duyguhasanzade/Projects/300522/300522/classtask/bin/Debug/netcoreapp3.1/classtask.dll
+/Users/duyguhasanzade/Projects/300522/300522/classtask/bin/Debug/netcoreapp3.1/classtask.pdb
+/Users/duyguhasanzade/Projects/300522/300522/classtask/obj/Debug/netcoreapp3.1/classtask.csproj.AssemblyReference.cache
+/Users/duyguhasanzade/Projects/300522/300522/classtask/obj/Debug/netcoreapp3.1/classtask.GeneratedMSBuildEditorConfig.editorconfig
+/Users/duyguhasanzade/Projects/300522/300522/classtask/obj/Debug/netcoreapp3.1/classtask.AssemblyInfoInputs.cache
+/Users/duyguhasanzade/Projects/300522/300522/classtask/obj/Debug/netcoreapp3.1/classtask.AssemblyInfo.cs
+/Users/duyguhasanzade/Projects/300522/300522/classtask/obj/Debug/netcoreapp3.1/classtask.csproj.CoreCompileInputs.cache
+/Users/duyguhasanzade/Projects/300522/300522/classtask/obj/Debug/netcoreapp3.1/classtask.dll
+/Users/duyguhasanzade/Projects/300522/300522/classtask/obj/Debug/netcoreapp3.1/classtask.pdb
+/Users/duyguhasanzade/Projects/300522/300522/classtask/obj/Debug/netcoreapp3.1/classtask.genruntimeconfig.cache
